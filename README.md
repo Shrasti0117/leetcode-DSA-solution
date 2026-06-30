@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0013-roman-to-integer) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
