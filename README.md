@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0013-roman-to-integer) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0013-roman-to-integer) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
