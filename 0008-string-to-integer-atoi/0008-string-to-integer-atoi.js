@@ -3,33 +3,24 @@
  * @return {number}
  */
 var myAtoi = function(s) {
-    let i = 0;
-    let n = s.length;
-    
-    // 1. Skip leading spaces
-    while (i < n && s[i] === ' ') i++;
-    
-    // 2. Handle sign
-    let sign = 1;
-    if (i < n && (s[i] === '+' || s[i] === '-')) {
-        if (s[i] === '-') sign = -1;
+    let i=0;
+   while(i < s.length && s[i] === ' ') i++;
+    let sign=1;
+    if((i < s.length && s[i] === '+') || s[i] === '-'){
+        sign=s[i]==='-'?-1:1;
         i++;
     }
-    
-    // 3. Convert digits
-    let result = 0;
-    while (i < n && s[i] >= '0' && s[i] <= '9') {
-        let digit = s[i] - '0';
-        
-        // 4. Handle overflow
-        if (result > Math.floor(2147483647 / 10) || 
-           (result === Math.floor(2147483647 / 10) && digit > 7)) {
-            return sign === 1 ? 2147483647 : -2147483648;
-        }
-        
-        result = result * 10 + digit;
-        i++;
-    }
-    
-    return result * sign;
+    return helper(s,i,0,sign);
 };
+function helper(s,i,num,sign){
+    const INT_MAX = 2147483647;
+    const INT_MIN = -2147483648;
+    if(i>=s.length||s[i] < '0' || s[i] > '9')
+    return sign*num;
+    num=num*10+Number(s[i]);
+
+    if(sign*num <= INT_MIN) return INT_MIN;
+    if(sign*num >= INT_MAX) return INT_MAX;
+
+    return helper(s,i+1,num,sign);
+}
