@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
