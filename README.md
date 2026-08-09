@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0053-maximum-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
