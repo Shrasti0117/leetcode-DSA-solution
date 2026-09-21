@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3524-find-x-value-of-array-i](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
+| [3524-find-x-value-of-array-i](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0053-maximum-subarray) |
+| [3524-find-x-value-of-array-i](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
