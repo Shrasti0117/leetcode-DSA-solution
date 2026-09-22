@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0386-lexicographical-numbers) |
 | [3310-remove-methods-from-project](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3310-remove-methods-from-project) |
 ## Sliding Window
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
