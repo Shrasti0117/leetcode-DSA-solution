@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3524-find-x-value-of-array-i](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
 ## Interactive
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0386-lexicographical-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
