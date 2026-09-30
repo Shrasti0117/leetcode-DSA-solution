@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
+| [2404-most-frequent-even-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/2404-most-frequent-even-element) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3524-find-x-value-of-array-i](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2404-most-frequent-even-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2404-most-frequent-even-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
