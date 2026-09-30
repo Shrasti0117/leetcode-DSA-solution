@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
 ## Interactive
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -146,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0561-array-partition) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
