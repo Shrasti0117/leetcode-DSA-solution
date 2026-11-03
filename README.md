@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shrasti0117/leetcode-DSA-solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
